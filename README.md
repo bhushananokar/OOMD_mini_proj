@@ -2,10 +2,6 @@
 
 Upload a leaf photo, get a diagnosis plus treatment advice.
 
-- Model: `linkanjarad/mobilenet_v2_1.0_224-plant-disease-identification` (MobileNetV2 fine-tuned on the PlantVillage Kaggle dataset, 38 classes). Saved locally in `backend/model/`.
-- Backend: FastAPI (`backend/app.py`), treatment info in `backend/knowledge.py`.
-- Frontend: `static/index.html`.
-
 ## Run
 
 ```
